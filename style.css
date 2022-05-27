@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("bg.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+#Heading
+{
+    font-family: cursive;
+font-size:33px;
+}
+p
+{
+  font-size:22px ;
+  color:cyan  
+}
+#footer
+{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size: 15px;
+    background-color: rgb(116, 116, 255);
+    color:white;
+    text-align: center;
+    line-height: 3;
+    font-size: 22px;
+    font-family: cursive;
+
+}
+canvas{
+  background-color: black;
+  font-family: cursive;
+  color:aqua;
+}
